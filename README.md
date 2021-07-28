@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry Cheng from Taiwan.
 - 👀 I’m interested in data science field, especially in data analytics.
-- 🌱 Therefore, I’m currently practicing my data science skills and doing some projects in Python.
+- 🌱 Therefore, I’m currently practicing my data science skills and doing some projects on Kaggle by using Python.
 
 <!---
 HarryCheng1110/HarryCheng1110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
